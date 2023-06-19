@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Poppins:wght@500&display=swap');
+.bg{
+    background-image: url(./images/Full.png);
+    
+    background-size: cover;
+}
+.bimg{
+    background-image: url(./images/bgcontact.png);
+}
